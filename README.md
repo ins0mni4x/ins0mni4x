@@ -5,4 +5,4 @@
 ⠀⠀⠀⠀⠀⠀⠀"Nah, you jarheads all look the same to me, pal. Sorry."
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀I make jokes like Antonio ok."
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Basic dni, idgaf."
