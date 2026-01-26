@@ -4,3 +4,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/25/e8/5f/25e85f6e542b104ceb84494175044c93.gif" width="700" >
 </p>
+<p align="center">
+  <img src="glitch.svg" width="700">
+</p>
