@@ -1,4 +1,4 @@
-svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
   <style>
     :root { --color: #173f8f; }
     @keyframes glitch {
@@ -21,12 +21,12 @@ svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
 
   <!-- cień tekstu -->
   <text x="5" y="35" text-anchor="start" font-size="20" font-family="monospace" fill="#330000">
-    𖦏 "𝗜 𝗔𝗠 𝗔𝗟𝗜𝗩𝗘." .ᐟ
+    ᡕᠵデᡁ᠊╾━ "𝗜 𝗔𝗠 𝗔𝗟𝗜𝗩𝗘." 𖦏.ᐟ
   </text>
 
   <!-- główny tekst z glitch i typing -->
   <text x="5" y="35" text-anchor="start" font-size="20" font-family="monospace"
         fill="var(--color)" class="glitch" mask="url(#mask)">
-       𖦏 "𝗜 𝗔𝗠 𝗔𝗟𝗜𝗩𝗘." .ᐟ
+    ᡕᠵデᡁ᠊╾━ "𝗜 𝗔𝗠 𝗔𝗟𝗜𝗩𝗘." 𖦏.ᐟ
   </text>
 </svg>
