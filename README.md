@@ -10,3 +10,8 @@
 <p align="center">
   <img src="glitch.svg" width="700">
 </p>
+<img src="https://64.media.tumblr.com/03cac4c4f9240a24947811bab0f235d0/2adcf2b90ab0737f-4c/s100x200/cc4dbf2b6d855ebfd26eead5311b727011c746e0.gifv" width="100" >
+</p> 
+</p>
+<img src="https://64.media.tumblr.com/5d44eb3f83310fba3f00e1fb6b1b21ea/65f46d4ba3bd793b-5b/s100x200/5da66fe6e28951b5bd5b3e542f0932f036598900.gifv" width="100" >
+</p>
