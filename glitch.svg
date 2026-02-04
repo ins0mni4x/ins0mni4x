@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
   <style>
-    :root { --color: #173f8f; }
+    :root { --color: ##465ceb; }
     @keyframes glitch {
       0% { transform: translate(0,0); }
       20% { transform: translate(-1px,1px); }
