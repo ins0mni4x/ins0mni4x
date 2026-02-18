@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <p align="center">
-  <img src="https://i.pinimg.com/originals/25/e8/5f/25e85f6e542b104ceb84494175044c93.gif" width="700" >
+  <img src="https://i.pinimg.com/originals/4e/f0/6f/4ef06fcb5210e7aae2a3b116dbb34f9b.gif width="700" >
 </p>
 <p align="center">
 𝗱𝗰 : 𝗱𝗮𝗺𝗻𝗮𝘁𝗶𝟬𝗻.                
