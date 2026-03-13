@@ -14,9 +14,8 @@
 ‎༒𝗱𝗰 : 𝗱𝗮𝗺𝗻𝗮𝘁𝗶𝟬𝗻.‎༒                
 <p align="center">
 ‎༒𝗜'𝗺 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝗮𝗳𝗸 𝘀𝗼 𝗜 𝗮𝗽𝗼𝗹𝗼𝗴𝗶𝘇𝗲 𝗶𝗻 𝗮𝗱𝘃𝗮𝗻𝗰𝗲 𝗳𝗼𝗿 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱𝗶𝗻𝗴‎༒
-</p>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69b55fb5&is=69b40e35&hm=e703b2794d96513a2c0df8d3ca9c0950cae2097f1cc04bcba94e26839136a242&=&format=webp&quality=lossless"width="800">
+  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69b55fb5&is=69b40e35&hm=e703b2794d96513a2c0df8d3ca9c0950cae2097f1cc04bcba94e26839136a242&=&format=webp&quality=lossless"width="600">
 
   
 
