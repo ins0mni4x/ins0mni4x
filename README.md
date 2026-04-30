@@ -2,7 +2,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482003060992507947/Untitled461_20260313141057.png?ex=69b55e68&is=69b40ce8&hm=35eca4e331f7631b2d2145296a6e36ff748bae47aaec5573ec503186244cfb98&=&format=webp&quality=lossless"width="800">
+  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482003060992507947/Untitled461_20260313141057.png?ex=69f4a668&is=69f354e8&hm=96f3a38b48af1d7876a80b24fdf648e983f57c4d084c474807613752e84a6af5&=&format=webp&quality=lossless">
+    
 <p align="center">
   </a>
 
@@ -21,7 +22,6 @@
 <p align="center">
 ‎༒𝗜'𝗺 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝗮𝗳𝗸 𝘀𝗼 𝗜 𝗮𝗽𝗼𝗹𝗼𝗴𝗶𝘇𝗲 𝗶𝗻 𝗮𝗱𝘃𝗮𝗻𝗰𝗲 𝗳𝗼𝗿 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱𝗶𝗻𝗴‎
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69b55fb5&is=69b40e35&hm=e703b2794d96513a2c0df8d3ca9c0950cae2097f1cc04bcba94e26839136a242&=&format=webp&quality=lossless"width="600">
+  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69f4a7b5&is=69f35635&hm=6b5370634ae730978e0e77ae16c40274688facf1d8cc4abe39cf74d42dbf2208&=&format=webp&quality=lossless">
 
-  
 
