@@ -20,7 +20,7 @@
 <p align="center">
 ‎༒𝗱𝗰 : 𝗱𝗮𝗺𝗻𝗮𝘁𝗶𝟬𝗻.‎                
 <p align="center">
-‎༒𝗜'𝗺 𝘂𝘀𝘂𝗮𝗹𝗹𝘆 𝗮𝗳𝗸 𝘀𝗼 𝗜 𝗮𝗽𝗼𝗹𝗼𝗴𝗶𝘇𝗲 𝗶𝗻 𝗮𝗱𝘃𝗮𝗻𝗰𝗲 𝗳𝗼𝗿 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝗱𝗶𝗻𝗴‎
+‎༒𝙗𝙪𝙩, 𝙖𝙡𝙖𝙨; 𝙜𝙪𝙞𝙡𝙩𝙮, 𝙮𝙚𝙩; 𝙨𝙖𝙩𝙞𝙨𝙛𝙞𝙚𝙙.‎
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69f4a7b5&is=69f35635&hm=6b5370634ae730978e0e77ae16c40274688facf1d8cc4abe39cf74d42dbf2208&=&format=webp&quality=lossless">
 
