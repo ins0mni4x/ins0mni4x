@@ -1,27 +1,8 @@
 
-</p>
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482003060992507947/Untitled461_20260313141057.png?ex=69f4a668&is=69f354e8&hm=96f3a38b48af1d7876a80b24fdf648e983f57c4d084c474807613752e84a6af5&=&format=webp&quality=lossless">
-    
-<p align="center">
-  </a>
-
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎‎‎ ‎ ‎‎‎ ‎ ‎‎‎‎‎‎‎‎‎‎‎‎![](https://komarev.com/ghpvc/?username=ins0mni4x&color=lightgrey)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ༒‎[atabook.org](https://insomnia.atabook.org)⚔︎༒‎[straw.page](https://frvstr4tion.straw.page/)⚔︎
 </p>
-</p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ec/b5/9b/ecb59b601fd7985ca2c806c7b4ebe305.gif"width="700" >
-</p>
-<p align="center">
-‎༒𝗱𝗰 : 𝗱𝗮𝗺𝗻𝗮𝘁𝗶𝟬𝗻.‎                
-<p align="center">
-‎༒𝙗𝙪𝙩, 𝙖𝙡𝙖𝙨; 𝙜𝙪𝙞𝙡𝙩𝙮, 𝙮𝙚𝙩; 𝙨𝙖𝙩𝙞𝙨𝙛𝙞𝙚𝙙.‎
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1458825331925450936/1482004459583442994/Untitled463_20260313141625.png?ex=69f4a7b5&is=69f35635&hm=6b5370634ae730978e0e77ae16c40274688facf1d8cc4abe39cf74d42dbf2208&=&format=webp&quality=lossless">
 
+<img align="right" src="https://media.discordapp.net/attachments/1484919318712942635/1505554214582095872/Untitled545_20260517145448.png?ex=6a0b0c20&is=6a09baa0&hm=87318e44c9a5ba3e3de0e0b5c49dcea1b0db302570f3b7bc4a0562a059f57afb&=&format=webp&quality=lossless" alt="image">
 
+>"A dog that weeps after it kills is no better than the dog that doesn't. My guilt doesn't purify me."
