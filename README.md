@@ -1,4 +1,4 @@
-<img align="center" src="https://media.discordapp.net/attachments/1184975837104193598/1512472284332429362/Untitled580_20260605170437.png?ex=6a243714&is=6a22e594&hm=b1155207ec78e1c589612c6663132290141eca9112b9d2f5fdddf50f2fab486d&=&format=webp&quality=lossless" alt="image" width=1000>
+<img align="center" src="https://media.discordapp.net/attachments/1184975837104193598/1512472284332429362/Untitled580_20260605170437.png?ex=6a243714&is=6a22e594&hm=b1155207ec78e1c589612c6663132290141eca9112b9d2f5fdddf50f2fab486d&=&format=webp&quality=lossless" alt="image" width=800>
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎‎‎ ‎ ‎‎‎ ‎ ☣︎‎‎‎‎‎‎‎‎‎‎‎‎![](https://komarev.com/ghpvc/?username=ins0mni4x&color=lightgrey)☣︎
 </p>
