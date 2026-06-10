@@ -15,4 +15,3 @@
 > ♱"𝙔𝙤𝙪 𝙬𝙖𝙣𝙣𝙖 𝙃𝙀𝘼𝙍 𝙞𝙣𝙨𝙖𝙣𝙚?!."
 <img src="https://media.discordapp.net/attachments/1184975837104193598/1512475879043760218/Untitled582_20260605171905.png?ex=6a243a6e&is=6a22e8ee&hm=8f579bc5befafc5bbe3072c5ae999c4bab06fdf301559ac487ea418deca8c91a&=&format=webp&quality=lossless" alt="image" width=200 />
 
-<img align="center" src="https://media.discordapp.net/attachments/1184975837104193598/1512472747941560340/Untitled581_20260605170635.png?ex=6a243783&is=6a22e603&hm=ccbe2d1e0dcb8097e888b8b456ed0a0f587c1ba6cf05e5d7081ae24f6722a112&=&format=webp&quality=lossless" width=700>
