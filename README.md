@@ -2,6 +2,6 @@
 <p align="center">
 Greatness From Small Beginnings
 <p align="center">‎
-<img src="https://media.discordapp.net/attachments/1006105616705658880/1519781892747169843/Untitled588_20260625211028.png?ex=6a3eceaf&is=6a3d7d2f&hm=312750e90057ce842c3a2717bf77e8b7423a69f12a3783c1c8899687fbf37efc&=&format=webp&quality=lossless" width=500>
+<img src="https://media.discordapp.net/attachments/1184975837104193598/1526670429417373726/Untitled601_20260714212303.png?ex=6a57de22&is=6a568ca2&hm=46e839bdd41c3a730cd15bfc6ca42ae7a31cf08870238e600f02a4c4e75500dd&=&format=webp&quality=lossless" width=500>
 <p align="center">
 ⫘⫘⫘⫘⫘⫘
